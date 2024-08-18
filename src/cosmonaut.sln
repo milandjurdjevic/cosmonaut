@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Cosmonaut", "Cosmonaut\Cosmonaut.fsproj", "{94000D31-C832-483C-B5E7-B8CB823ADCEA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Cosmonaut.Tests", "Cosmonaut.Tests\Cosmonaut.Tests.fsproj", "{4405C388-F775-444B-9CE7-B4EDC273443F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94000D31-C832-483C-B5E7-B8CB823ADCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94000D31-C832-483C-B5E7-B8CB823ADCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94000D31-C832-483C-B5E7-B8CB823ADCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94000D31-C832-483C-B5E7-B8CB823ADCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4405C388-F775-444B-9CE7-B4EDC273443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4405C388-F775-444B-9CE7-B4EDC273443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4405C388-F775-444B-9CE7-B4EDC273443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4405C388-F775-444B-9CE7-B4EDC273443F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
